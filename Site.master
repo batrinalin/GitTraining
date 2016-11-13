@@ -46,14 +46,12 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="~/">Application name</a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/">Acasa</a></li>
-                        <li><a runat="server" href="~/About">About</a></li>
-                        <li> Cass</li>
-                        <li><a runat="server" href="~/Contact">BABI</a></li>
+                        <li><a runat="server" href="~/Add">Adaugare angajat</a></li>
+                        <li><a runat="server" href="~/Contact">Contact</a></li>
                     </ul>
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
@@ -79,7 +77,9 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-               <p>Alin cel batrin. Pentru al doilea commit de pe proiect!Commit3</p>
+               <p>Footer - Alin cel batrin. Pentru al doilea commit de pe proiect!Commit3
+                   Aici voi adauga ceasul -- Alin-Calin Batrin ASP .NET Project
+               </p>
             </footer>
         </div>
     </form>
