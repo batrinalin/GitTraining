@@ -79,7 +79,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-               <p>Alin cel batrin</p>
+               <p>Alin cel batrin. Pentru al doilea commit de pe proiect</p>
             </footer>
         </div>
     </form>
